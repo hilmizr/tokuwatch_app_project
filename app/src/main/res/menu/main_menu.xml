@@ -6,7 +6,7 @@
         android:icon="@drawable/home_select" />
     <item
         android:id="@+id/menu_bioskop"
-        android:title="@string/cinema"
+        android:title="@string/movies"
         android:icon="@drawable/bioskop_select" />
     <item
         android:id="@+id/menu_maps"
